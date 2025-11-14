@@ -5,4 +5,3 @@ def greet(project_name):
     print("Functionality is now included for better structure.")
 
 if __name__ == "__main__":
-    greet("June AI World")
